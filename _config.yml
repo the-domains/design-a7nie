@@ -1,0 +1,26 @@
+typography_spectrum: 0.6670981689821929
+color:
+  brandStrength: 0.6350120815914124
+  lightness: 0.4096017109695822
+  saturation: 0.1126054348424077
+  rhythmicContrast: 0.19340740493498743
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.41867541591636837
+name: design
+navigation:
+  - name: Home
+    url: 'http://eightcorners.co'
+    type: external
+title: Eight Corners Blog
+content: []
+description: 'Design, travel, and business.'
+purpose:
+  - type: external
+    url: 'http://eightcorners.co'
+    label: Home
