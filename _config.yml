@@ -12,12 +12,12 @@ color:
     - '#333333'
 github: true
 layout_spectrum: 0.41867541591636837
-name: design
+name: createrati shop
 navigation:
   - name: Home
     url: 'http://eightcorners.co'
     type: external
-title: Eight Corners Blog
+title: createrati shop
 content: []
 description: 'Design, travel, and business.'
 purpose:
