@@ -48,8 +48,8 @@ app_links:
     name: Etsy
     id: com.etsy.android
 title: 'New eBook Template: La Vie en Rose'
-datePublished: '2017-02-01T07:28:12.669Z'
-dateModified: '2017-02-01T07:28:10.913Z'
+datePublished: '2017-02-01T07:42:07.752Z'
+dateModified: '2017-02-01T07:42:06.875Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -69,7 +69,13 @@ _type: MediaObject
 Inspired by the Le Jardin du Luxembourg, this clean, chic and feminine template evokes calm, serenity, softness and subtle boldness.
 
 ### eBook Template | Old Rose Pink | Customizable eBook PDF Template | Google Docs / Windows Word DOCX / Mac Pages / A4 / Letter Available \#shop \#ebooktemplate
+
+---
+
 [Get this beautiful template now.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/031bd488-20a8-419e-9017-aee98a0f4bae.png)
+
+---
+
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f65802598de6e9add48c88801127c0cb/croprotate.png?cropheight=1481&cropwidth=715&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F031bd488-20a8-419e-9017-aee98a0f4bae.png&x=11&y=11)
 
 [0]: http://gretcho.link/shop-ebook-template-rose-sage-pink
