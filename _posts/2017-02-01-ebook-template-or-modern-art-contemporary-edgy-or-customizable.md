@@ -48,8 +48,8 @@ app_links:
     name: Etsy
     id: com.etsy.android
 title: 'New eBook Template: Modern Art'
-datePublished: '2017-02-01T10:18:51.705Z'
-dateModified: '2017-02-01T10:18:50.906Z'
+datePublished: '2017-02-01T10:18:59.616Z'
+dateModified: '2017-02-01T10:18:58.744Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -69,6 +69,6 @@ _type: MediaObject
 [Get this template now][0]
 
 ### **[eBook Template | Modern Art Contemporary Edgy | Customizable Template | Google Docs / Windows Word DOCX / Mac Pages / A4 / Letter Available][0]**
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/363b76ed0cfc1b579d2fad0d9461c341/croprotate.png?cropheight=1481&cropwidth=715&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F239b8182-a45f-460b-8899-45899ab5675c.png&x=11&y=11)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23e9d772b4c3fef3315a51565bcbdc9a834b5580.png)
 
 [0]: http://gretcho.link/shop-ebook-template-modern-art
