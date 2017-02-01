@@ -47,16 +47,17 @@ app_links:
     type: googleplay
     name: Etsy
     id: com.etsy.android
-isBasedOnUrl: 'http://gretcho.link/shop-ebook-template-modern-art'
 title: 'New eBook Template: Modern Art'
-datePublished: '2017-02-01T10:09:56.888Z'
-dateModified: '2017-02-01T10:09:55.867Z'
+datePublished: '2017-02-01T10:12:02.786Z'
+dateModified: '2017-02-01T10:12:01.594Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-02-01-ebook-template-or-modern-art-contemporary-edgy-or-customizable.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-01T10:06:55.731Z'
+url: new-ebook-template-modern-art/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -66,6 +67,6 @@ _type: MediaObject
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c789655d59dd666b427d74088c183059/noop.jpg?input=https%3A%2F%2Fimg1.etsystatic.com%2F159%2F0%2F13902421%2Fil_570xN.1180575077_c6zh.jpg" /><h1>Modern Art Contemporary Edgy | Customizable Template</h1><p>Modern Art - inspired by MoMA and the Louvre, with a little bit of crazy.  Perfect for that edgy, modern, contemporary feel.</p></article>
 
 ### **[eBook Template | Modern Art Contemporary Edgy | Customizable Template | Google Docs / Windows Word DOCX / Mac Pages / A4 / Letter Available][0]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/239b8182-a45f-460b-8899-45899ab5675c.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/363b76ed0cfc1b579d2fad0d9461c341/croprotate.png?cropheight=1481&cropwidth=715&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F239b8182-a45f-460b-8899-45899ab5675c.png&x=11&y=11)
 
 [0]: http://gretcho.link/shop-ebook-template-modern-art
