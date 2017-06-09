@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: '"Breathe", whispered the eucalyptus leaves. '
-dateModified: '2017-06-09T07:14:36.000Z'
-datePublished: '2017-06-09T07:14:36.932Z'
+dateModified: '2017-06-09T07:15:01.772Z'
+datePublished: '2017-06-09T07:15:02.712Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-09-breathe-whispered-the-eucalyptus-leaves.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-09T07:14:36.932Z'
-sourcePath: _posts/2017-06-09-breathe-whispered-the-eucalyptus-leaves.md
-_type: Blurb
+url: breathe-whispered-the-eucalyptus-leaves/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b471e73-91c5-4d6e-b6c1-3ded0370b81a.png)
@@ -24,7 +26,7 @@ They went on to inspire this ebook template with their silvery-blue leaves sitti
 
 Perfect for the entrepreneur who likes a mix of calm, earthy and fresh aesthetics.
 
-~
+---
 
 So you have something you'd like to share with the world.
 
